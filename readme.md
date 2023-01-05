@@ -1,7 +1,7 @@
 #### Making the URL
 
 - This is the url given to us 
-` var queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?";`
+- ` var queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?";`
 - Our form has 4 fields, and while sending the request to New york's api our url should include values from those input fields.
 
 <img width="1404" alt="Screenshot 1401-10-15 at 16 47 46" src="https://user-images.githubusercontent.com/63969056/210837639-64534ab0-5a37-4fd7-9740-b26877c7f344.png">
