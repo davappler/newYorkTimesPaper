@@ -13,3 +13,4 @@ Our URL becomes like this after adding these input field values
 - Then we have `begin_date=20110101`, the value `20110101` means the value added to input field was `2011` but while sending that value to the url, you need to add `0101` to its end so it becomes `20110101`. (This is how new york's api is expecting us to send data this is not any general rule!!)
 - Same instructions for `end_date` in the URL
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63969056/210839355-1894525c-8dfc-4841-9252-b761691d3ab6.gif)
